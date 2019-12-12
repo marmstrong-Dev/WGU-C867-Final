@@ -8,9 +8,9 @@ You must write a program containing five classes (i.e., Student , SecurityStuden
 
 ### The functions within main() are as follows: 
 
-classRoster.printAll() (<-- two spaces)
-classRoster.printInvalidEmails() (<-- two spaces)
-classRoster.printAverageDaysInCourse(student id) //loop through classRosterArray and for each element (<-- two spaces)
-classRoster.printByDegreeProgram(SOFTWARE) (<-- two spaces)
-classRoster.remove("A3") (<-- two spaces)
-classRoster.remove("A3") //expected: Student with this ID was not found. (<-- two spaces)
+classRoster.printAll() <br/>
+classRoster.printInvalidEmails() <br/>
+classRoster.printAverageDaysInCourse(student id) //loop through classRosterArray and for each element <br/>
+classRoster.printByDegreeProgram(SOFTWARE) <br/>
+classRoster.remove("A3") <br/>
+classRoster.remove("A3") //expected: Student with this ID was not found. <br/>
